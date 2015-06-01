@@ -1,4 +1,4 @@
-(defproject de.otto/escaping-messageconverter "0.1.0"
+(defproject de.otto/escaping-messageconverter "0.1.1"
             :description "escaping messageconverter for logback."
             :url "https://github.com/otto-de/escaping-messageconverter"
             :license {:name "Apache License 2.0"
