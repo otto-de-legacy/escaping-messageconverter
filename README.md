@@ -1,6 +1,9 @@
 #escaping-messageconverter
 
 Simple message converter for logback that escapes quotation marks to make json-logging easier.
+```clojure
+[de.otto/escaping-messageconverter "0.1.1"]
+```
 
 
 ## Usage
